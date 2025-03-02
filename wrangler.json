@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "late-salad-8c70",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "853ae2d6-9d0f-4538-a422-2b0be07da623",
+      "database_name": "black-salad-ed85-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
